@@ -10,11 +10,11 @@
 
 **FR**  
 Après 4 ans à piloter la transformation digitale d'un cabinet de recrutement industriel, je me repositionne pleinement sur les métiers de la data et de l'intelligence artificielle.  
-J'ai construit des outils concrets en production : agents IA, automatisations, pipelines de traitement de données — et je continue d'apprendre en construisant.
+J'ai construit des outils concrets en production : agents IA, automatisations, pipelines de traitement de données et je continue d'apprendre en construisant.
 
 **EN**  
 After 4 years driving the digital transformation of an industrial executive search firm, I'm making a full pivot into data and AI.  
-I've shipped real production tools — AI agents, automation pipelines, data processing — and I keep learning by building.
+I've shipped real production tools : AI agents, automation pipelines, data processing — and I keep learning by building.
 
 ---
 
