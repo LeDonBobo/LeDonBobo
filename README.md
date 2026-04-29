@@ -75,5 +75,5 @@ Python Data Structures · University of Michigan
 
 ---
 
-*🇫🇷 Actuellement en recherche d'alternance — disponible dès septembre 2026.*  
-*🇬🇧 Currently looking for an apprenticeship — available from September 2026.*
+*🇫🇷 Actuellement en recherche d'alternance - disponible dès septembre 2026.*  
+*🇬🇧 Currently looking for an apprenticeship - available from September 2026.*
